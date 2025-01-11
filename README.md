@@ -45,12 +45,14 @@ The following visualizations demonstrate the model's performance:
 - **Actual Sales vs Predicted Sales**
   - Here, we visualize how well the model predicts the sales based on advertising spend.
 
-![Insert your image here]()
+![Salary Prediction Plot](https://github.com/Hritik0052/Sales-Forecasting-Linear_Model/blob/main/salary_prediction_plot.png)
 
 - **Feature Importance**
   - We will also explore the relationships between advertising spends on different mediums (TV, radio, and newspaper) and how they affect sales.
 
-![Insert your image here]()
+![Correlation Matrix](https://github.com/Hritik0052/Sales-Forecasting-Linear_Model/blob/main/Corr.png)
+
+
 
 ## Model Performance
 
